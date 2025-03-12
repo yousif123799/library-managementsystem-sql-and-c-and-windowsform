@@ -1,0 +1,34 @@
+D:\c#\Library Management System2\library management system\bin\Debug\Database_library.mdf
+D:\c#\Library Management System2\library management system\bin\Debug\Database_library_log.ldf
+D:\c#\Library Management System2\library management system\bin\Debug\library management system.exe.config
+D:\c#\Library Management System2\library management system\bin\Debug\library management system.exe
+D:\c#\Library Management System2\library management system\bin\Debug\library management system.pdb
+D:\c#\Library Management System2\library management system\obj\Debug\library management system.csproj.AssemblyReference.cache
+D:\c#\Library Management System2\library management system\obj\Debug\library_management_system.Form1.resources
+D:\c#\Library Management System2\library management system\obj\Debug\library_management_system.AppBody.resources
+D:\c#\Library Management System2\library management system\obj\Debug\library_management_system.Properties.Resources.resources
+D:\c#\Library Management System2\library management system\obj\Debug\library management system.csproj.GenerateResource.cache
+D:\c#\Library Management System2\library management system\obj\Debug\library management system.csproj.CoreCompileInputs.cache
+D:\c#\Library Management System2\library management system\obj\Debug\library management system.exe
+D:\c#\Library Management System2\library management system\obj\Debug\library management system.pdb
+D:\c#\Library Management System2\library management system\obj\Debug\library_management_system.UserBooksControl.resources
+D:\c#\Library Management System2\library management system\obj\Debug\library_management_system.UserBorrowersControl.resources
+D:\c#\Library Management System2\library management system\obj\Debug\library_management_system.UserTransactionControl.resources
+D:\c#\Library Management System2\library management system\obj\Debug\library_management_system.UserSettingsControl.resources
+D:\c#\YOUSIF MOHAMED ERAQI MOUSTAFA ELSHABASY\Library Management System2\library management system\bin\Debug\Database_library.mdf
+D:\c#\YOUSIF MOHAMED ERAQI MOUSTAFA ELSHABASY\Library Management System2\library management system\bin\Debug\Database_library_log.ldf
+D:\c#\YOUSIF MOHAMED ERAQI MOUSTAFA ELSHABASY\Library Management System2\library management system\bin\Debug\library management system.exe.config
+D:\c#\YOUSIF MOHAMED ERAQI MOUSTAFA ELSHABASY\Library Management System2\library management system\bin\Debug\library management system.exe
+D:\c#\YOUSIF MOHAMED ERAQI MOUSTAFA ELSHABASY\Library Management System2\library management system\bin\Debug\library management system.pdb
+D:\c#\YOUSIF MOHAMED ERAQI MOUSTAFA ELSHABASY\Library Management System2\library management system\obj\Debug\library management system.csproj.AssemblyReference.cache
+D:\c#\YOUSIF MOHAMED ERAQI MOUSTAFA ELSHABASY\Library Management System2\library management system\obj\Debug\library_management_system.Form1.resources
+D:\c#\YOUSIF MOHAMED ERAQI MOUSTAFA ELSHABASY\Library Management System2\library management system\obj\Debug\library_management_system.AppBody.resources
+D:\c#\YOUSIF MOHAMED ERAQI MOUSTAFA ELSHABASY\Library Management System2\library management system\obj\Debug\library_management_system.Properties.Resources.resources
+D:\c#\YOUSIF MOHAMED ERAQI MOUSTAFA ELSHABASY\Library Management System2\library management system\obj\Debug\library_management_system.UserBooksControl.resources
+D:\c#\YOUSIF MOHAMED ERAQI MOUSTAFA ELSHABASY\Library Management System2\library management system\obj\Debug\library_management_system.UserBorrowersControl.resources
+D:\c#\YOUSIF MOHAMED ERAQI MOUSTAFA ELSHABASY\Library Management System2\library management system\obj\Debug\library_management_system.UserSettingsControl.resources
+D:\c#\YOUSIF MOHAMED ERAQI MOUSTAFA ELSHABASY\Library Management System2\library management system\obj\Debug\library_management_system.UserTransactionControl.resources
+D:\c#\YOUSIF MOHAMED ERAQI MOUSTAFA ELSHABASY\Library Management System2\library management system\obj\Debug\library management system.csproj.GenerateResource.cache
+D:\c#\YOUSIF MOHAMED ERAQI MOUSTAFA ELSHABASY\Library Management System2\library management system\obj\Debug\library management system.csproj.CoreCompileInputs.cache
+D:\c#\YOUSIF MOHAMED ERAQI MOUSTAFA ELSHABASY\Library Management System2\library management system\obj\Debug\library management system.exe
+D:\c#\YOUSIF MOHAMED ERAQI MOUSTAFA ELSHABASY\Library Management System2\library management system\obj\Debug\library management system.pdb

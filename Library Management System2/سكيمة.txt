@@ -1,0 +1,42 @@
+
+CREATE TABLE borrower (
+    brId INT PRIMARY KEY,
+    Name VARCHAR(255) NOT NULL,
+    Address VARCHAR(255),
+    Phone VARCHAR(15),
+    Book1 VARCHAR(50),
+    Book2 VARCHAR(50)
+);
+
+
+CREATE TABLE department (
+    dep_Id INT PRIMARY KEY,
+    dep_Name VARCHAR(255),
+    rack_Code VARCHAR(50)
+);
+
+
+CREATE TABLE books (
+    accNo INT PRIMARY KEY,
+    isbn VARCHAR(13),
+    Name VARCHAR(255),
+    author VARCHAR(255),
+    publisher VARCHAR(255),
+    d_Id INT,
+    borrower VARCHAR(255),
+    FOREIGN KEY (d_Id) REFERENCES department(dep_Id)
+);
+
+
+CREATE TABLE transactions (
+    tNum INT PRIMARY KEY,
+    date DATE,
+    time TIME,
+    br_Id INT,
+    Book_No INT,
+    authorized_by VARCHAR(255),
+    return_date DATE,
+    has_Returned BOOLEAN,
+    FOREIGN KEY (br_Id) REFERENCES borrower(brId),
+    FOREIGN KEY (Book_No) REFERENCES books(accNo)
+);
